@@ -5,3 +5,20 @@
 .navbar {
   min-height: 4rem;
 }
+
+.buttons:last-child {
+  margin-bottom: 0;
+}
+
+.hero {
+  text-align: center;
+  background-color: #92141c;
+}
+
+.hero-body .title, .hero-body .subtitle{
+  color: #fefefe;
+}
+
+.info {
+  padding: 3rem 0rem;
+}
